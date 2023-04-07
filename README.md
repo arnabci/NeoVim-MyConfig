@@ -23,6 +23,13 @@ dnf copr enable agriffis/neovim-nightly
 dnf install -y neovim python3-neovim
 ```
 
+## Packer Install
+
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
+
 ## Reference Video
 
 https://youtu.be/w7i4amO_zaE
