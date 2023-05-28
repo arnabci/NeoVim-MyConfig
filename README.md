@@ -92,10 +92,3 @@ and
 ## 5. Voila!
 
 This is tested only on NobaraOS and Fedora.
-
-## Credits
-
-All credits go to <strong>ThePrimeagen</strong>.
-
-
-https://youtu.be/w7i4amO_zaE
